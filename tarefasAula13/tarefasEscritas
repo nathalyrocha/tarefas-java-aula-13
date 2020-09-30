@@ -1,0 +1,18 @@
+ 1 - Algoritmos são, de acordo com a definição:
+
+	 a) Um conjunto de bits estrategicamente organizados para representar diferentes tipos de dados. [ ]
+	 b) Um conjunto de intruções aleatóriamente dispostas e finitas. [ ]
+	 c) Um conjunto de instruções finitas e ordenadas. [X]
+	 d) N/A. [ ]
+
+ 2 - Defina liguagem de alto nível  e liguagem de baixo nível:
+ 
+ 	Alto nível: A sintaxe está mais próxima da nossa linguagem que da do computador. É masi facilmente entendível pois ultilizam palavras como "print e "delete.
+ 	
+ 	Baixo nível: Mais próxima da linguagem do computador, com comandos menos intuitivos para o nosso idioma e mais eficiente no sentido de aproveitar 
+ 	a arquitertura do computador, ótima para situações em que se necessita de um processamento mais rápido.
+ 	
+ 3 - Caso você precise guardar o resultado de uma divisão de 2 números inteiros, qual o tipo de variável você usaria? Por que?
+ 
+ 	Usaria float ou double, pois mesmo ambos sendo inteiros, o resultado pode vir a ser um, número decimal, e esses dois tipos de variáveis aceitam 
+ 	números tando inteiros quanto fracionários..
